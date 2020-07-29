@@ -1,75 +1,83 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "GRLPWR",
+      "link": "https://www.youtube.com/watch?v=Ah05cgRap0c",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Mulheres na Tecnologia",
+        "url": "https://www.programaria.org/"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O que faz uma desenvolvedora de software?",
+          "url": "https://www.youtube.com/watch?v=iKqX-kGPqys"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Plano de carreira",
+          "url": "https://www.youtube.com/watch?v=xDOj_tazJl4&t=217s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Mulher em Tech",
+          "url": "https://www.youtube.com/watch?v=gSnNiA_S-MQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Mulheres na Tecnologia",
+          "url": "https://www.youtube.com/watch?v=Ah05cgRap0c"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Storytelling",
+          "url": "https://www.youtube.com/watch?v=rspjCAFfsUg&t=3750s"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Processos Seletivos",
+          "url": "https://www.youtube.com/watch?v=qd1nxhbkqqQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Linked na Prática",
+          "url": "https://www.youtube.com/watch?v=RZqJ4qweaBU"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "O que as empresas avaliam",
+          "url": "https://www.youtube.com/watch?v=aapPkIqzckM"
+        },
+        {
+          "titulo": "Trabalho Remoto",
+          "url": "https://www.youtube.com/watch?v=8MdxkBIgt8w"
+        }
       ]
     },
     {
       "titulo": "Back End",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Vídeos sobre Back End",
+        "url": "https://dev.to/aigirlsbr"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Desenvolvedora no iFood",
+          "url": "https://www.youtube.com/watch?v=y_DvhHQXvRk&t=7s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Java Reativo 1",
+          "url": "https://www.youtube.com/watch?v=KLsM_LRYzoM"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Java Reativo 2",
+          "url": "https://www.youtube.com/watch?v=Qzp7gDnyGzQ"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
+          "titulo": "Bancos Relacionais",
+          "url": "https://www.youtube.com/watch?v=k_E1rmIeEEM"
+        },
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Observabilidade",
+          "url": "https://www.youtube.com/watch?v=acwSeW4I2ac"
+        },
+        {
+          "titulo": "Java: Mercado de Trabalho",
+          "url": "https://www.youtube.com/watch?v=m-_idOjYVTE"
         }
       ]
     },
